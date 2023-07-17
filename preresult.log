@@ -1,0 +1,80 @@
+==={}====
+time:301.52328112348914 	R2: 0.8472	RMSE: 1759
+==={'n_estimators': 64}====
+
+time:38.677531730383635 	R2: 0.8396	RMSE: 1802
+==={'n_estimators': 256}====
+
+time:69.30675106495619 	R2: 0.852	RMSE: 1731
+==={'n_estimators': 512}===
+
+time:70.69945339486003 	R2: 0.8559	RMSE: 1708
+==={'learning_rate': 0.05}====
+time:93.49730015918612 	R2: 0.8403	RMSE: 1798
+==={'learning_rate': 0.25}====
+
+time:53.49464826285839 	R2: 0.8509	RMSE: 1737
+==={'learning_rate': 0.5}====
+
+time:6.48293836414814 	R2: 0.8459	RMSE: 1766
+==={'learning_rate': 0.75}====
+time:6.513918504118919 	R2: 0.8372	RMSE: 1816
+==={'max_depth': 8, 'num_leaves': 127}====
+time:14.216536741703749 	R2: 0.8553	RMSE: 1712
+==={'max_depth': 8, 'num_leaves': 63}====
+time:12.15674202144146 	R2: 0.8523	RMSE: 1729
+==={'max_depth': 8}====
+
+time:8.603914622217417 	R2: 0.8464	RMSE: 1763
+==={'max_depth': 16, 'num_leaves': 255}====
+
+time:24.78673966228962 	R2: 0.8614	RMSE: 1675
+==={'max_depth': 16, 'num_leaves': 127}====
+
+time:16.635381773114204 	R2: 0.8574	RMSE: 1699
+==={'max_depth': 16, 'num_leaves': 63}====
+
+time:12.374918423593044 	R2: 0.8528	RMSE: 1727
+==={'max_depth': 16}====
+
+Did not meet early stopping. Best iteration is:
+[128]	training's l2: 1.99986e+06
+time:41.42448629066348 	R2: 0.8472	RMSE: 1759
+==={'max_depth': 32, 'num_leaves': 511}====
+
+time:137.08698434010148 	R2: 0.8634	RMSE: 1663
+==={'max_depth': 32, 'num_leaves': 255}====
+
+time:24.077738154679537 	R2: 0.8613	RMSE: 1676
+==={'max_depth': 32, 'num_leaves': 127}====
+
+time:16.19133410230279 	R2: 0.8577	RMSE: 1697
+==={'max_depth': 32, 'num_leaves': 63}====
+
+time:11.796799708157778 	R2: 0.853	RMSE: 1725
+==={'max_depth': 32}====
+
+
+time:9.421686917543411 	R2: 0.8472	RMSE: 1759
+==={'max_depth': 64, 'num_leaves': 1027}====
+
+time:248.66733953356743 	R2: 0.8639	RMSE: 1660
+==={'max_depth': 64, 'num_leaves': 511}====
+
+
+[128]	training's l2: 1.19669e+06
+time:47.70281954109669 	R2: 0.8633	RMSE: 1663
+==={'max_depth': 64, 'num_leaves': 255}====
+
+time:108.22532268241048 	R2: 0.8612	RMSE: 1676
+==={'max_depth': 64, 'num_leaves': 127}====
+
+time:17.476992301642895 	R2: 0.8577	RMSE: 1697
+==={'max_depth': 64, 'num_leaves': 63}====
+
+time:28.685741506516933 	R2: 0.853	RMSE: 1725
+==={'max_depth': 64}====
+
+time:9.298312954604626 	R2: 0.8472	RMSE: 1759
+CPU times: user 23min 29s, sys: 10.7 s, total: 23min 39s
+Wall time: 23min 49s
