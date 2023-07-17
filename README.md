@@ -1,2 +1,2 @@
-# 19_gradient_boosting
- Gradient boosting car price sprint
+# 19_gradient
+ gradient boosting car sprint
