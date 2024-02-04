@@ -3,9 +3,9 @@ Yandex practicum sprint 19
 
 ## Task
 - compare classic models Regression & RandomForest with Gradient Boosting by:
--- quality of prediction
--- training time
--- prediction time
+  - quality of prediction
+  - training time
+  - prediction time
 
 ## Tools 
 - numpy
